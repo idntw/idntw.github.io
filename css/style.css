@@ -1,0 +1,22 @@
+
+.logopng {
+    height: 50px;
+    weight: 100px;
+}
+
+.parallax-container {
+    height: 20% ;
+}
+
+.parallax img {
+    height: 800px ;
+    opacity: 0.5 !important;
+}
+
+.menu img {
+    max-width: 20%;
+}
+
+section, footer {
+    padding: 20px 0;
+}
